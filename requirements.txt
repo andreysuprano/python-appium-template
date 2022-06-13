@@ -1,0 +1,4 @@
+pytest
+pytest-xdist
+Appium-Python-Client
+python-dotenv
